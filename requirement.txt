@@ -1,0 +1,3 @@
+matplotlib>=3.7.0
+
+this program uses only one standard python library which is matplotlib>=3.7.0 for providing plotting of bar-chart for Employees salary.
